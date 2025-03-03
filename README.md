@@ -50,7 +50,7 @@ Before running the project, make sure you meet the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/proyectofinal.git
+   git clone https://github.com/Luisduran206/Local_DB_for_Hospital_Services.git
 
 ## Description of Files 🔍
 
